@@ -8,10 +8,10 @@ to the server.
 
 Language used: Python
 
-#Functionalities
+##Functionalities
 - User will be allowed to upload, delete, and download files from the server
 
-#Thanks
+##Thanks
 CSE 124
 
 
