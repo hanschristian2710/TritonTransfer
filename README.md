@@ -16,6 +16,6 @@ Language used: Python
 - Implement fault tolerance (when networks fail) using read and write quorum 
 
 ## Thanks
-CSE 124
+Networked Service
 
 
